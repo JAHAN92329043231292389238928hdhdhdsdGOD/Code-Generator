@@ -95,7 +95,7 @@ Project Structure
 Version 1.0 intentionally uses a simple structure and consists of a single C# source file.
 
 BotGenerator/
-→ Program.cs
+→ BotGenerator.cs
 → README.md
 Purpose
 
